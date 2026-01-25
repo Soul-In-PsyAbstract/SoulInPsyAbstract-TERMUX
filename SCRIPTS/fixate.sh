@@ -1,3 +1,3 @@
 #!/bin/sh
-echo "MANUAL PULL ONLY"
+echo "MANUAL FIXATE SUPPORT ONLY"
 echo "No automation allowed"

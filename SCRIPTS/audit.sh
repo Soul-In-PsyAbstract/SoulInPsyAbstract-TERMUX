@@ -1,3 +1,3 @@
 #!/bin/sh
-echo "MANUAL PULL ONLY"
+echo "MANUAL AUDIT ONLY"
 echo "No automation allowed"
