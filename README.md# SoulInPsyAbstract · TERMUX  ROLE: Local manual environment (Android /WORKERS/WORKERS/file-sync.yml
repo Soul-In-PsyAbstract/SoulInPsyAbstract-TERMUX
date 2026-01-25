@@ -1,0 +1,9 @@
+worker: file-sync
+direction:
+  - termux_to_land
+  - land_to_termux
+rules:
+  - no_canon_files
+  - no_fixations
+  - manual_only
+trigger: human
