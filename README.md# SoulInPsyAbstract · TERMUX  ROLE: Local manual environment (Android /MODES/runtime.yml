@@ -1,0 +1,7 @@
+mode: termux-runtime
+execution: manual
+autonomy: forbidden
+network: optional
+writes: allowed
+canon: false
+authority: human-only
