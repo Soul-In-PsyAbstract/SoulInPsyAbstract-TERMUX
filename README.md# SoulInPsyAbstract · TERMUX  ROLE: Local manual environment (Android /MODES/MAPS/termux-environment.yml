@@ -1,0 +1,10 @@
+environment: TERMUX
+platform: android
+role: local-manual-runtime
+access:
+  - android-storage
+  - git-read-write
+restrictions:
+  - no_autostart
+  - no_background_processes
+  - no_fixation_editing
