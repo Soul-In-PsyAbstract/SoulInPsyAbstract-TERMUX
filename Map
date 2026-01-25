@@ -1,0 +1,14 @@
+SoulInPsyAbstract-TERMUX/
+├─ README.md
+├─ MODES/
+│  └─ runtime.yml
+├─ MAPS/
+│  └─ termux-environment.yml
+├─ WORKERS/
+│  └─ file-sync.yml
+├─ SCRIPTS/
+│  ├─ pull.sh
+│  ├─ verify.sh
+│  ├─ fixate.sh
+│  └─ audit.sh
+└─ RESTRICTIONS.md
